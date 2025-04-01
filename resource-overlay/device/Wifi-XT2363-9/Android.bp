@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "WifiResFogosXT2363-9",
+    name: "WifiResDeviceXT2363-9",
     vendor: true,
 }

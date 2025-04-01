@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "FrameworksResFogosXT2363-9",
+    name: "FrameworksResDeviceXT2363-9",
     vendor: true,
 }

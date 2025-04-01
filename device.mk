@@ -23,15 +23,15 @@ $(call inherit-product, device/motorola/sm6375-common/common.mk)
 
 # Overlays
 PRODUCT_PACKAGES += \
-    FrameworksResFogos \
-    FrameworksResFogosXT2363-8 \
-    FrameworksResFogosXT2363-9 \
-    LineageSystemUIFogos \
-    ProductFrameworksResFogos \
-    SystemUIResFogos \
-    WifiResFogos \
-    WifiResFogosXT2363-8 \
-    WifiResFogosXT2363-9
+    FrameworksResDevice \
+    FrameworksResDeviceXT2363-8 \
+    FrameworksResDeviceXT2363-9 \
+    LineageSystemUIDevice \
+    ProductFrameworksResDevice \
+    SystemUIResDevice \
+    WifiResDevice \
+    WifiResDeviceXT2363-8 \
+    WifiResDeviceXT2363-9
 
 # Audio
 PRODUCT_COPY_FILES += \
